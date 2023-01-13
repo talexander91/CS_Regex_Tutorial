@@ -6,7 +6,7 @@ Introductory paragraph (replace this with your text)
 
 In this gist I will go over an effective Regex for finding and match a standard 10 digit phone number.
 
-^\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$
+`^\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$`
 
 ## Table of Contents
 
